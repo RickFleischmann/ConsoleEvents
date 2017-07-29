@@ -18,8 +18,7 @@ namespace ConsoleEventTutorial
             int iAnswer = pAdder(4, 3);
             Console.WriteLine("iAnswer = {0}", iAnswer);
             Console.ReadLine();
-            Console.ReadLine();
-            // Returns “iAnswer = 7”
+             // Returns “iAnswer = 7”
         }
     }
 

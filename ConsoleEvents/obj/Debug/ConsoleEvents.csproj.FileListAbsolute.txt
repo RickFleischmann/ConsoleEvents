@@ -1,6 +1,5 @@
 c:\Users\Rick\Source\Repos\ConsoleEvents\ConsoleEvents\bin\Debug\ConsoleEvents.exe.config
 c:\Users\Rick\Source\Repos\ConsoleEvents\ConsoleEvents\bin\Debug\ConsoleEvents.exe
-c:\Users\Rick\Source\Repos\ConsoleEvents\ConsoleEvents\bin\Debug\ConsoleEvents.pdb
-c:\Users\Rick\Source\Repos\ConsoleEvents\ConsoleEvents\obj\Debug\ConsoleEvents.csprojResolveAssemblyReference.cache
 c:\Users\Rick\Source\Repos\ConsoleEvents\ConsoleEvents\obj\Debug\ConsoleEvents.exe
 c:\Users\Rick\Source\Repos\ConsoleEvents\ConsoleEvents\obj\Debug\ConsoleEvents.pdb
+c:\Users\Rick\Source\Repos\ConsoleEvents\ConsoleEvents\bin\Debug\ConsoleEvents.pdb

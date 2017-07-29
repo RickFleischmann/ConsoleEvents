@@ -4,28 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleEventTutorial
+namespace ConsoleEvents
 {
     class Program
     {
-
-        public delegate int dgPointer(int a, int b);
-        static void Main()
+        static void Main(string[] args)
         {
-
-            Adder a = new Adder();
-            dgPointer pAdder = new dgPointer(a.Add);
-            int iAnswer = pAdder(4, 3);
-            Console.WriteLine("iAnswer = {0}", iAnswer);
-            Console.ReadLine();
-            Console.ReadLine();
-            // Returns “iAnswer = 7”
         }
-    }
-
-    public class Adder
-    {
-        public int Add(int x, int y)
-        { return x + y; }
     }
 }
